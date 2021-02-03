@@ -80,3 +80,4 @@ Financial Management/Debt Payoff Application built by *Trilogy Boot Camp Alumni*
 - Search budget categories across previous months to see where you over or under spent on your budget.
 - App should reconcile transactions with the user defined budget based on the transactions at each merchant.
 
+---

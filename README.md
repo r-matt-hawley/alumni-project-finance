@@ -1,10 +1,9 @@
 # alumni-project-finance
-Individual Finance App  built by Trilogy Boot Camp Alumni
+Financial Management/Debt Payoff Application built by *Trilogy Boot Camp Alumni*
 
 ---
 
 ## Ideas from 1/26
-#### Financial management/debt payoff application
 - Users should have a unique dashboard with insights (ideas for charts: Debt Payoff date/timeline, total balance by categories… possibly more?)
 - User should be able to add debts Total Balance, Minimum Payment,  Loan term (if applicable), Account name (Or nickname), Interest Rate, type of debt (auto loan, mortgage, student loan, credit cards).
 - User should be able to categorize their debts  
@@ -49,7 +48,6 @@ Individual Finance App  built by Trilogy Boot Camp Alumni
 - Establish coding norms such as linter?
 
 ### Brainstorm
-Financial management/debt payoff application
 > (From 1/26 Meeting): "Users should have a unique dashboard with insights to their current finances and future goals (ideas for charts: Debt Payoff date/timeline, total balance by categories… possibly more?)"
 
 #### Charts
@@ -60,14 +58,14 @@ Financial management/debt payoff application
     - Tree map?
 
 #### Calendars
-- **User can set a date**
-- **Simulate the snowball effect of paying off debt**
+- *User can set a date*
+- *Simulate the snowball effect of paying off debt*
     - starting with smaller items to pay and moving to larger items in different categories. 
     - For example: clothing 200, phone bill 100, 400 travel, etc.
         1. Phone Bill
         2. Clothing
         3. Travel
-- **Amortization Calculator**
+- *Amortization Calculator*
     - User uploads current debt information (e.g current balance, original principal, interest rate, anticipated payoff date)
     - App responds by building Amortization schedule
     - User can add or subtract from payments to visualize adjustments on the original loan:
@@ -76,7 +74,7 @@ Financial management/debt payoff application
         - payoff date
 
 #### Personalizing Credit Card Debt Visualization:
-In the same way that bank allow users to match spending categories to budget lines, imagine a user who charges $100 of clothing expenses and a $200 phone bill to their credit card. At the end of the month if they pay $30 then we could visualize those transactions such that the user has paid off 10% of their clothing charge and 10% of their phone bill. This could help a user to diagnose their spending habits, emotionally connecting to their purchases in a more concrete manner.
+- In the same way that banks allow users to match spending categories to budget line items, imagine a user who charges $100 of clothing expenses and a $200 phone bill to their credit card. At the end of the month if they pay $30 then we could visualize those transactions such that the user has paid off 10% of their clothing charge and 10% of their phone bill. This could help a user to diagnose their spending habits, emotionally connecting to their purchases in a more concrete manner.
 
 #### Budget
 - Search budget categories across previous months to see where you over or under spent on your budget.
